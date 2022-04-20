@@ -10,9 +10,9 @@ Console.Write("@");
 Console.SetCursorPosition(xc, yc);
 Console.Write("@");
 
-int x = xa, y = ya;
+int x = xa, y = xb;
 
-int count = 100000;
+int count = 10000;
 
 while (count > 0)
 {
